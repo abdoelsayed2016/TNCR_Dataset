@@ -42,6 +42,7 @@ The Raw folder for the data should be like below, then used generateVOC2JSON.py
     │   │   │  │    ├── 0.jpg
     │   │   │  │    ├── ...
     │   │   │  │    ├── 9.jpg
+    │   │   │  ├── Output Json
     ├── generateVOC2JSON.py   
 ## requirements
 
