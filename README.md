@@ -23,22 +23,26 @@ TNDC has been implemented and tested with Python 3.7 and PyTorch 1.8.1.
 ```
 
 ## Data Prepration 
+You should convert your Pascal VOC XML annotation files to a single COCO Json file so we can train our models.
+The Raw folder for the data should be like below, then used generateVOC2JSON.py
+
     .
-    ├── data
-    │   ├── TNDC Dataset
-    │   │  ├── Annotations
-    │   │  │    ├── 0.xml
-    │   │  │    ├── ...
-    │   │  │    ├── 9.xml
-    │   │  ├── ImageSets
-    │   │  │    ├── Main 
-    │   │  │    │     ├── test.txt
-    │   │  │    │     ├── train.txt
-    │   │  │    │     ├── val.txt
-    │   │  ├── Images
-    │   │  │    ├── 0.jpg
-    │   │  │    ├── ...
-    │   │  │    ├── 9.jpg
+    │   ├── data
+    │   │   ├── TNDC Dataset
+    │   │   │  ├── Annotations
+    │   │   │  │    ├── 0.xml
+    │   │   │  │    ├── ...
+    │   │   │  │    ├── 9.xml
+    │   │   │  ├── ImageSets
+    │   │   │  │    ├── Main 
+    │   │   │  │    │     ├── test.txt
+    │   │   │  │    │     ├── train.txt
+    │   │   │  │    │     ├── val.txt
+    │   │   │  ├── Images
+    │   │   │  │    ├── 0.jpg
+    │   │   │  │    ├── ...
+    │   │   │  │    ├── 9.jpg
+    ├── generateVOC2JSON.py   
 ## requirements
 
 ## Cite as
