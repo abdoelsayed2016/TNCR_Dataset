@@ -54,6 +54,30 @@ MMDetection: v2.10.0
 ```
 
 ##  TNDR Dataset
+in the following Figures show the number of class in the dataset. Since for three classes (No lines, Partial lined merged cells, Partial lined) 
+<figure>
+      <figcaption>Full Lined</figcaption>
+      <img src="imgs/full_lined.png" width="550"/>
+</figure>
+<figure>
+        <figcaption>Merged Cells</figcaption>
+        <img src="imgs/merged_cells.png" width="550"/>     
+</figure>
+<figure>
+        <figcaption>No lines</figcaption>
+        <img src="imgs/nolines .png" width="550"/>  
+</figure>
+<figure>
+        <figcaption>Partial Lined</figcaption>
+        <img src="imgs/partial_lined.png" width="550"/>
+        
+</figure>
+<figure>
+  <figcaption>Partial Lined Merged Cells</figcaption>
+        <img src="imgs/partial_lined_merged_cells.png" width="550"/>
+        
+</figure>
+
 
 
 ##  Models Zoo
@@ -91,7 +115,7 @@ MMDetection: v2.10.0
    <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
   </tr>
   <tr>
-   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td>  Resnet-50_1x </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EX0U66RbUlFEg0Wcjt9j78oBrL89JT_XNHTuBc3e4JWjDQ?e=4aEhOg">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
   </tr>
   <tr>
     <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
