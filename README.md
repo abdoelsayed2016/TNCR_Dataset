@@ -40,6 +40,8 @@ OpenCV: 4.5.2
 MMCV: 1.3.5
 MMDetection: v2.10.0
 ```
+## License
+The code of CascadeTabNet is Open Source under the [MIT License](LICENSE.md). There is no limitation for both acadmic and commercial usage.
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
