@@ -2,8 +2,17 @@
 [![PWC](https://img.shields.io/badge/PyTorch-v1.8-blue)](https://pytorch.org/)
 [![PWC](https://img.shields.io/badge/%20mmdetection%20-v2.10-blue)](https://github.com/open-mmlab/mmdetection)
 
+
+> **TNDR: Table Net Detection and Recognition Dataset**<br>
+> [Abdelrahman Abdallah](https://github.com/abdoelsayed2016),
+> [Alexander Berendeev](),
+> [Islam Nuradin](),
+> [Daniyar Nurseitov](),
+> <br>
+
+
 ## Abstract 
- 
+We present TNDR, a new real table image collected from free open source websites. TNDR dataset competition is structured into three tasks, first Task A is a task for table detection from documents, second Task B is a task for detecting table structure in cell recognition, and last Task C for classification table in 5 different classes. TNDR contains 9428 high-quality labeled tables. <br><br> In this paper, we have implemented state-of-the-art deep learning-based methods for table detection to create several strong baselines. HRNets Cascade Mask R-CNN with HRNetV2p-W18 Backbone Network achieves the highest performance compare with other methods with a precision of 81.0\%, recall of 90.3\%, and f1 score of 90.3\% on the TNDR dataset. We've made TNDR open source in the hopes of encouraging more deep learning approaches to table detection, structure recognition, and classification.
 ## Getting Started
 ### Install MMDetection v2.10.0+
 TNDR has been implemented and tested with Python 3.7 and PyTorch 1.8.1. 
@@ -43,6 +52,85 @@ OpenCV: 4.5.2
 MMCV: 1.3.5
 MMDetection: v2.10.0
 ```
+
+##  Benchmarking
+
+##  Models Zoo
+
+#### 1. Cascade Mask R-CNN
+
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+    <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+#### 2. Cascade R-CNN
+
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+    <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+#### 3. Faster R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  Resnet-50_L1Loss </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+    <td> Resnet-50_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
 ## License
 The code of CascadeTabNet is Open Source under the [MIT License](LICENSE). There is no limitation for both acadmic and commercial usage.
 
