@@ -89,22 +89,22 @@ in the following Figures show the number of class in the dataset. Since for thre
    <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
   </tr>
   <tr>
-   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td>  Resnet-50_1x </td> <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EQ9WtrqjQrNDtbJh2nt8iIkBCEDQvXT--DvR1_EcUpoKrw?e=mRaCvc">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EWy19074DWVLiBARaYS6ZlIBvXUCcAQeZQ9ivbRJItOXqA?e=YEvHb1">Checkpoint</a> </td>    
   </tr>
   <tr>
-    <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> Resnet-50_20e </td>   <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EWPXWRjY1HlJnxfz3yBGCVABiQ81PjJo-LL_mB4IxVi33Q?e=X9US8Y">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Ee82uMoBmiVGuaqE6zuP73UBRBC2iZSd2LjZ4jMj4fiyrA?e=HmN4Vq">Checkpoint</a> </td>   
   </tr>
    <tr>
-    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> Resnet-101_1x </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EX0U66RbUlFEg0Wcjt9j78oBrL89JT_XNHTuBc3e4JWjDQ?e=4aEhOg">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EfMVfmeEMuJBgjYsIRIr0WUBDDtSrOEd7DQ_uGjPGRVnmQ?e=wJLdnx">Checkpoint</a> </td>
   </tr>
    <tr>
-    <td> Resnet-101_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> Resnet-101_20e </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EXXEAcPOXddLhhDsQ96oetABj6fc1fGcKqZoaG2m3Uh8Fw?e=4XhIzH">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EUPIZwIajn5Eo_vR355c5jABxugHxmkPJd1ilP8uIp43CA?e=gWmRcC">Checkpoint</a> </td>
   </tr>
    <tr>
-   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Ef6XbyoOjopIuKyUBO1zKzoBmFCCBKZlFq1rBzi9E6Fn8w?e=0C8c7j">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Eej0Y2lpZz1Lv5DEBk_OIJEBWyLKH8BY1COekzXqY5nOLw?e=KqI3FS">Checkpoint</a> </td>
   </tr>
    <tr>
-    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ERm0F78gX3dNm6PEItKg5ZQB4k3QKr3aZpEeNW6MKtkqmw?e=bWlMmJ">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ETs60n82gIhBvMlbFtX7oGQBKKQ5Q2sYuNgpnR9qJNtCLA?e=ldUlW8">Checkpoint</a> </td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ in the following Figures show the number of class in the dataset. Since for thre
    <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
   </tr>
   <tr>
-   <td>  Resnet-50_1x </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EX0U66RbUlFEg0Wcjt9j78oBrL89JT_XNHTuBc3e4JWjDQ?e=4aEhOg">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
   </tr>
   <tr>
     <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
