@@ -162,16 +162,16 @@ in the following Figures show the number of class in the dataset. Since for thre
    <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
   </tr>
   <tr>
-   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td>  Resnet-50_1x </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ETMmRjOs7_ZJouEofxkjBlUB0Zt5LH_cGPMjaejprfXBIA?e=cLJ4up">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EfASLLKVoDhDhLqDZEGoONYBPhHPgRX8y3TM2APhldtfPw?e=NPoweK">Checkpoint</a> </td>
   </tr>
    <tr>
-    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> Resnet-101_1x </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EahpY_y5rmpIov73YQqH8LsBkdUDi_GoDxauXQcyAKrfmg?e=6Bedf7">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EYvOXIgHxLVPjaw_y7hd4DQBvpDZEuMb8JCCEegTMnk86A?e=5NvTlI">Checkpoint</a> </td>
   </tr>
    <tr>
-   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Ed31pM9BqoFGoEiVvYgIassBPsIkFGIWrotY3kywriRh9g?e=PFggIo">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Ec52yUzqyAxBnYgBs6ca_5MBcunLLs4OzYBPSWjvfAOl6Q?e=eMsAlm">Checkpoint</a> </td>
   </tr>
    <tr>
-    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ETUkxfQ1miZHvuf5arXztLoB0vTMDevpIaCPioVENyIEgQ?e=0yu9VU">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Ea6DcWMbfdhBoRjAEYS4Q-ABvrtgbkMvZYhyVSIn20m6JQ?e=2wLecp">Checkpoint</a> </td>
   </tr>
 </table>
 
