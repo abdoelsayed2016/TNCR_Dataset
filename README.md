@@ -131,6 +131,221 @@ MMDetection: v2.10.0
   </tr>
 </table>
 
+#### 4. Mask R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-101_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> ResNeXt-101-32x4d_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+
+#### 5. Cascade RPN
+<table>
+  <tr>
+    <th>Method</th> <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <th>Fast R-CNN </th> <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <th>CRPN </th> <td> Resnet-50_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  
+</table>
+
+
+#### 6. Hybrid Task Cascade
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  Resnet-50_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> Resnet-50_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> Resnet-101_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   
+</table>
+
+
+#### 7. HRNets
+##### 7.1 Cascade R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_20e </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> HRNetV2p-W32_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> HRNetV2p-W40_20e </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   
+</table>
+
+##### 7.2 Faster R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_2x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+    <td> HRNetV2p-W32_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+     <tr>
+    <td> HRNetV2p-W32_2x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td> HRNetV2p-W40_1x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+    <tr>
+   <td> HRNetV2p-W40_2x </td>   <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+##### 7.3 HTC 
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_20e </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+
+   <tr>
+    <td> HRNetV2p-W32_20e </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+
+</table>
+
+##### 7.4 Mask R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+
+   <tr>
+    <td> HRNetV2p-W32_1x </td>  <td>  <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+
+</table>
+
+ 
+ ##### 7.5 Cascade Mask R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_20e </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+
+</table>
+
+ ##### 7.6 FCOS
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> HRNetV2p-W18_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+   <td>  HRNetV2p-W18_2x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  
+  <tr>
+   <td> HRNetV2p-W32_1x </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+
+#### 8. ResNeSt
+##### 8.1 Cascade R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> S-50 </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+   <td>   S-101 </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  
+</table>
+
+##### 8.2 Faster R-CNN
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> S-50 </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+   <td>   S-101 </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  
+</table>
+
+#### 9. YOLO
+
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> DarkNet-53_320 </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+  <tr>
+   <td>   DarkNet-53_416  </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+   <tr>
+   <td>   DarkNet-53_608  </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+
+#### 10. Dynamic RCNN
+
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> Resnet-50_1X </td> <td> <a href="">Config Files</a> </td> <td> <a href="">Checkpoint</a> </td>
+  </tr>
+</table>
+
+
 ## License
 The code of CascadeTabNet is Open Source under the [MIT License](LICENSE). There is no limitation for both acadmic and commercial usage.
 
