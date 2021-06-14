@@ -1,4 +1,7 @@
 # TNDR: Table Net Detection and Recognition Dataset
+[![PWC](https://img.shields.io/badge/PyTorch-v1.8-blue)](https://pytorch.org/)
+[![PWC](https://img.shields.io/badge/%20mmdetection%20-v2.10-blue)](https://github.com/open-mmlab/mmdetection)
+
 ## Abstract 
  
 ## Getting Started
