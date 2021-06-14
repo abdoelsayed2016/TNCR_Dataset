@@ -33,6 +33,13 @@ TNDC has been implemented and tested with Python 3.7 and PyTorch 1.8.1.
 
 
 ## requirements
+```
+Python: 3.7 
+PyTorch: 1.8.1
+OpenCV: 4.5.2
+MMCV: 1.3.5
+MMDetection: v2.10.0
+```
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
