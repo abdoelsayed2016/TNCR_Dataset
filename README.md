@@ -82,6 +82,8 @@ in the following Figures show the number of class in the dataset. Since for thre
 
 ##  Models Zoo
 All config  and checkpoint files available in this <a href="https://aunedu-my.sharepoint.com/:f:/g/personal/abdelrahmanelsayed_aun_edu_eg/En6ueJ33IlxHhdGXrxI9KqABTtYNWhxrT4rZZbF8Zx9ywQ?e=iYX9su">link</a> 
+
+Checkout our demo notebook for loading checkpoints and performing inference <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1lI0ghISktOYkEpaxDEsnEyQ2botA34oB/view?usp=sharing)<br>
 #### 1. Cascade Mask R-CNN
 
 <table>
