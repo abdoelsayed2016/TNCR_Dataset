@@ -3,7 +3,7 @@
  
 ## Getting Started
 ### Install MMDetection v2.10.0+
-TNDC has been implemented and tested with Python 3.7 and PyTorch 1.8.1. 
+TNDR has been implemented and tested with Python 3.7 and PyTorch 1.8.1. 
 ```
 %cd $project_dir$
 !pip install -q mmcv terminaltables
