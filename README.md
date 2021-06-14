@@ -1,4 +1,4 @@
-# TNDC: Table Net Detection and Classification
+# TNDR: Table Net Detection and Recognition Dataset
 ## Abstract 
  
 ## Getting Started
