@@ -9,7 +9,7 @@
 > [Islam Nuradin](),
 > [Daniyar Nurseitov](),
 > <br>
-
+  
 
 ## Abstract 
 We present TNDR, a new real table image collected from free open source websites. TNDR dataset competition is structured into three tasks, first Task A is a task for table detection from documents, second Task B is a task for detecting table structure in cell recognition, and last Task C for classification table in 5 different classes. TNDR contains 9428 high-quality labeled tables. <br><br> In this paper, we have implemented state-of-the-art deep learning-based methods for table detection to create several strong baselines. HRNets Cascade Mask R-CNN with HRNetV2p-W18 Backbone Network achieves the highest performance compare with other methods with a precision of 81.0\%, recall of 90.3\%, and f1 score of 90.3\% on the TNDR dataset. We've made TNDR open source in the hopes of encouraging more deep learning approaches to table detection, structure recognition, and classification.
