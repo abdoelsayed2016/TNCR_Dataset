@@ -379,7 +379,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
 -->
 
 ## License
-The code of CascadeTabNet is Open Source under the [MIT License](LICENSE). There is no limitation for both acadmic and commercial usage.
+The code of TNCR is Open Source under the [MIT License](LICENSE). There is no limitation for both acadmic and commercial usage.
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
