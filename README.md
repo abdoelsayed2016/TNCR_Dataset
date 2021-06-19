@@ -12,7 +12,9 @@
   
 
 ## Abstract 
-We present TNCR, a new table dataset with varying image quality collected from free open source websites. TNCR dataset can be used for table detection in scanned document images and their classification into 5 different classes. TNCR contains 9428 high-quality labeled images. In this paper, we have implemented state-of-the-art deep learning-based methods for table detection to create several strong baselines. Cascade Mask R-CNN  with ResNeXt-101-64x4d Backbone Network achieves the highest performance compared to other methods with a precision of 79.7%, recall of 89.8%, and f1 score of 84.4% on the TNCR dataset. We have made TNCR open source in the hope of encouraging more deep learning approaches to table detection, classification and structure recognition. 
+We present TNCR, a new table dataset with varying image quality collected from free open source websites. TNCR dataset can be used for table detection in scanned document images and their classification into 5 different classes. 
+
+TNCR contains 9428 high-quality labeled images. In this paper, we have implemented state-of-the-art deep learning-based methods for table detection to create several strong baselines. Cascade Mask R-CNN  with ResNeXt-101-64x4d Backbone Network achieves the highest performance compared to other methods with a precision of 79.7%, recall of 89.8%, and f1 score of 84.4% on the TNCR dataset. We have made TNCR open source in the hope of encouraging more deep learning approaches to table detection, classification and structure recognition. 
 ## Getting Started
 ### Install MMDetection v2.10.0+
 TNDR has been implemented and tested with Python 3.7 and PyTorch 1.8.1. 
