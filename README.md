@@ -136,6 +136,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
   </tr>
 </table>
 
+<!--
 #### 3. Faster R-CNN
 <table>
   <tr>
@@ -157,7 +158,8 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
     <td> ResNeXt-101-64x4d_1x </td>  <td>  <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EaByQDxobC5EkG47fSbIerUBYNn78t_K2fDjkz1d5cXzEA?e=gJfOrd">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EQpxMuCYO3lGmwH4MPFNJDwBFTb9nxoJ2uNAcYZMybt9IQ?e=ZWDJde">Checkpoint</a> </td>
   </tr>
 </table>
-
+-->
+<!--
 #### 4. Mask R-CNN
 <table>
   <tr>
@@ -177,8 +179,9 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
   </tr>
 </table>
 
+-->
 
-#### 5. Cascade RPN
+#### 3. Cascade RPN
 <table>
   <tr>
     <th>Method</th> <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
@@ -193,7 +196,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
 </table>
 
 
-#### 6. Hybrid Task Cascade
+#### 4. Hybrid Task Cascade
 <table>
   <tr>
    <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
@@ -210,7 +213,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
    
 </table>
 
-
+<!--
 #### 7. HRNets
 ##### 7.1 Cascade R-CNN
 <table>
@@ -312,8 +315,8 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
    <td> HRNetV2p-W32_1x </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ERAHunr5eUtPn3_tTH-D734B_pi3Qli1xYFta52lMJj3og?e=Jm8f9t">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/EarUcXRY5jNEgks8Yoi05KsBPRk2bW6SuZ6hM4CoqGBxoQ?e=nlmhvS">Checkpoint</a> </td>
   </tr>
 </table>
-
-
+-->
+<!--
 #### 8. ResNeSt
 ##### 8.1 Cascade R-CNN
 <table>
@@ -342,8 +345,8 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
   </tr>
   
 </table>
-
-#### 9. YOLO
+-->
+#### 5. YOLO
 
 <table>
   <tr>
@@ -360,7 +363,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
   </tr>
 </table>
 
-
+<!--
 #### 10. Dynamic RCNN
 
 <table>
@@ -371,7 +374,7 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
    <td> Resnet-50_1X </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/ETBhZgHugxxNpKjt5Ay5XJoBhvkEcRtzyAzdgUJE215KJA?e=VAwwKQ">Config Files</a> </td> <td> <a href="https://aunedu-my.sharepoint.com/:u:/g/personal/abdelrahmanelsayed_aun_edu_eg/Eahl2SHgrE1BhIt1OGU1uq0B8K6vwhs2qVdOiM5F2DIAIA?e=ZjRiBF">Checkpoint</a> </td>
   </tr>
 </table>
-
+-->
 
 ## License
 The code of CascadeTabNet is Open Source under the [MIT License](LICENSE). There is no limitation for both acadmic and commercial usage.
