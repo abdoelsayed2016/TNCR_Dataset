@@ -9,7 +9,7 @@
 > [Islam Nuradin](),
 > [Daniyar Nurseitov](),
 > <br>
-  
+    
 
 ## Abstract 
 We present TNCR, a new table dataset with varying image quality collected from free open source websites. TNCR dataset can be used for table detection in scanned document images and their classification into 5 different classes. 
