@@ -383,7 +383,15 @@ The code of TNCR is Open Source under the [MIT License](LICENSE). There is no li
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
-```
+``
+@misc{abdallah2021tncr,
+      title={TNCR: Table Net Detection and Classification Dataset}, 
+      author={Abdelrahman Abdallah and Alexander Berendeyev and Islam Nuradin and Daniyar Nurseitov},
+      year={2021},
+      eprint={2106.15322},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 
