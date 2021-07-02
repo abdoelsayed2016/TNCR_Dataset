@@ -3,7 +3,7 @@
 [![PWC](https://img.shields.io/badge/%20mmdetection%20-v2.10-red)](https://github.com/open-mmlab/mmdetection)
 
 
-> **TNDR: Table Net Detection and Recognition Dataset**<br>
+> **TNDR: Table Net Detection and Classification Dataset**<br>
 > [Abdelrahman Abdallah](https://github.com/abdoelsayed2016),
 > [Alexander Berendeev](),
 > [Islam Nuradin](),
