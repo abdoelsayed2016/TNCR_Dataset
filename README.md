@@ -53,7 +53,6 @@ MMDetection: v2.10.0
 ```
 
 ##  TNCR Dataset
-in the following Figures show the number of class in the dataset. Since for three classes (No lines, Partial lined merged cells, Partial lined). 
 
 You can download the dataset through this  <a href="https://aunedu-my.sharepoint.com/:f:/g/personal/abdelrahmanelsayed_aun_edu_eg/EgXnk6DGzN9DlYV8jaiGPRcBXPjt3xqgKjPi07DFoM5pGw?e=6CPFGZ">link</a> 
 or from Google Drive divide by 5 parts 
