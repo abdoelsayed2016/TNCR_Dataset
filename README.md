@@ -370,6 +370,23 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
   </tr>
 </table>
 
+
+#### 5. Deformable DERT
+
+<table>
+  <tr>
+   <th>Backbones</th><th>Config Files</th><th>Checkpoint File</th>
+  </tr>
+  <tr>
+   <td> R-50_1 </td> <td> <a href="https://drive.google.com/drive/folders/1-wOGbOPSLbi2qPX5tOT7cQmJn9t_XNil?usp=sharing">Config Files</a> </td> <td> <a href="https://drive.google.com/drive/folders/1-wOGbOPSLbi2qPX5tOT7cQmJn9t_XNil?usp=sharing">Checkpoint</a> </td>
+  </tr>
+  <tr>
+
+
+</table>
+
+
+
 <!--
 #### 10. Dynamic RCNN
 
